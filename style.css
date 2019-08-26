@@ -1,0 +1,31 @@
+body{
+    min-block-size: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+#quotebtn{
+    border:3px solid #fefefe;
+    border-radius: 7px;
+    color:#000;
+    background:#B98448;
+    font-size:1.5rem;
+    cursor:pointer;
+    outline:null;
+    border-color: aqua;
+    
+
+}
+#btncolor:hover{
+    background:#555c88
+}
+.container{
+    text-align: center;
+    height: 500px;
+    width: 400px;
+    background-color: aliceblue;
+    justify-content:center;
+    align-items: center;
+
+}
